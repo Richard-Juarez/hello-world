@@ -1,2 +1,2 @@
 # hello-world
-I am Richard
+I am Richard J.
